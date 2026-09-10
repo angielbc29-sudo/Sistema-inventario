@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Archivos de compilacion C++
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.sdf
+*.opensdf
+*.VC.db
